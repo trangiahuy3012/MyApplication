@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="text_view_body">Our app can send you everywhere, even space. For only $2.99 per month</string>
+    <string-array name="text_view_title">
+        <item>Browse your menu and order directly</item>
+        <item>Even to space with us! Together</item>
+        <item>Pickup delivery at your door</item>
+    </string-array>
+    <string name="welcome_title">Welcome to Food Hub</string>
+    <string name="welcome_body">Your favourite foods delivered fast at your door.</string>
+    <string name="textview">TextView</string>
+    <string name="signin_with">Sign in with</string>
+    <string name="btn_text_facebook">FACEBOOK</string>
+    <string name="btn_text_gmail">GOOGLE</string>
+    <string name="btn_start_w_email_or_phone">Start with email or phone</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="sign_in"><u>Sign In</u></string>
+    <string name="login_title">Login</string>
+    <string name="login_email_placeholder">Your Email or phone</string>
+    <string name="e_mail_label">E-mail</string>
+    <string name="password_label">Password</string>
+    <string name="password_placeholder">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login_text_btn">LOGIN</string>
+    <string name="don_t_have_an_account">Don’t have an account?</string>
+    <string name="sign_up_label">Sign Up</string>
+    <string name="default_profile_name">Eljad Eendaz</string>
+    <string name="full_name_label">Full name</string>
+    <string name="phone_number_label">Phone Number</string>
+    <string name="your_full_name_placeholder">Your Full name</string>
+    <string name="your_e_mail_place_holder">Your E-mail</string>
+    <string name="your_phone_number_placeholder">Your Phone number</string>
+    <string name="cancelbtn_text">Cancel</string>
+    <string name="submit_btn_text">Submit</string>
+    <string name="your_update_profile">Your update data</string>
+    <string name="signup_title">Signup</string>
+    <string name="sign_up_upper_label">SIGN UP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="log_out">Log Out</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
