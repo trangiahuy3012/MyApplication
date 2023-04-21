@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Linear"
+        android:id="@+id/menu_item_linear"/>
+    <item android:title="Grid"
+        android:id="@+id/menu_item_grid"/>
+    <item android:title="Avatar"
+        android:id="@+id/menu_item_avatar"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/mask_group"
+        />
+</menu>
